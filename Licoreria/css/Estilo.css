@@ -1,0 +1,11 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+#Descripcion {
+    background-image:("/imagenes/bebida.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
